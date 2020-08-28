@@ -1,4 +1,5 @@
-_cDepthW0_ = 15;
+_cDepthW0_ = 2;
+_cMixDepthW0_ = 4;
 _cNH4WHyp0_ = 0.366024;
 _cNO3WHyp0_ = 4.10222;
 _cPO4WHyp0_ = 0.848485;
@@ -122,6 +123,9 @@ _cPBlueWEpi0_ = 0.0106432;
 _cDZooEpi0_ = 0.0448336;
 _cNZooEpi0_ = 0.00313835;
 _cPZooEpi0_ = 0.000448336;
+_cDBlueSurf0_ = 1E-29;
+_cNBlueSurf0_ = 8.9056225610663E-31;
+_cPBlueSurf0_ = 1.30797668538729E-31;
 _cDExtTotT0_ = 33594;
 _cNExtTotT0_ = 444.908;
 _cPExtTotT0_ = 66.6182;
